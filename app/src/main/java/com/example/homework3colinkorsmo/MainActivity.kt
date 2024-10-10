@@ -95,3 +95,4 @@ fun RemindersCard(reminder: Reminders, modifier: Modifier = Modifier){
 fun RemindersCardPreview(){
     RemindersCard(reminder = DataSource.reminders[0])
 }
+
